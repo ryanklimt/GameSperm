@@ -25,3 +25,11 @@ function mainMenu() {
 function OnGUI () {
 	mainMenu();
 }
+
+function Start () {
+	Screen.lockCursor = false; 
+}
+
+function Update () {
+
+}
