@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 0aeb5b8c3ac2ee544a41d6cb23ec62aa
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh10_Group13 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100004: Mesh11_Group14 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100006: Mesh12_Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100008: Mesh13_Group_2_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100010: Mesh14_Group_2_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100012: Mesh15_Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100014: Mesh16_Group16 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100016: Mesh17_Group17 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100018: Mesh18_Group18 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100020: Mesh19_Group19 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100022: Mesh1_Group4 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100024: Mesh20_Group20 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100026: Mesh21_Group21 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100028: Mesh22_Group22 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100030: Mesh23_Group23 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100032: Mesh24_Group24 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100034: Mesh25_Group25 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100036: Mesh26_Group26 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100038: Mesh27_Group27 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100040: Mesh28_Group28 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100042: Mesh29_Group29 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100044: Mesh2_Group5 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100046: Mesh30_Group30 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100048: Mesh31_Group31 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100050: Mesh32_Group32 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100052: Mesh33_Group33 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100054: Mesh34_Group34 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100056: Mesh35_Group35 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100058: Mesh36_Group36 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100060: Mesh37_Group37 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100062: Mesh38_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100064: Mesh39_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100066: Mesh3_Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100068: Mesh40_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100070: Mesh41_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100072: Mesh42_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100074: Mesh43_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100076: Mesh44_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100078: Mesh45_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100080: Mesh46_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100082: Mesh47_Group39 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100084: Mesh48_Group40 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100086: Mesh49_Group42 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100088: Mesh4_Group7 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100090: Mesh50_Group43 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100092: Mesh51_Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100094: Mesh52_Group45 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100096: Mesh53_Group46 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100098: Mesh54_Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100100: Mesh55_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100102: Mesh56_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100104: Mesh57_Group_23_1 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100106: Mesh58_Group_23_2 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100108: Mesh59_Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    100110: Mesh5_Group8 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100112: Mesh60_Group49 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100114: Mesh61_Group50 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100116: Mesh62_Group51 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100118: Mesh63_Group53 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100120: Mesh64_Group54 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100122: Mesh6_Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100124: Mesh7_Group10 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100126: Mesh8_Group11 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    100128: Mesh9_Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400000: //RootNode
+    400002: Mesh10_Group13 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400004: Mesh11_Group14 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400006: Mesh12_Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400008: Mesh13_Group_2_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400010: Mesh14_Group_2_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400012: Mesh15_Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400014: Mesh16_Group16 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400016: Mesh17_Group17 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400018: Mesh18_Group18 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400020: Mesh19_Group19 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400022: Mesh1_Group4 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400024: Mesh20_Group20 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400026: Mesh21_Group21 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400028: Mesh22_Group22 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400030: Mesh23_Group23 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400032: Mesh24_Group24 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400034: Mesh25_Group25 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400036: Mesh26_Group26 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400038: Mesh27_Group27 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400040: Mesh28_Group28 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400042: Mesh29_Group29 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400044: Mesh2_Group5 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400046: Mesh30_Group30 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400048: Mesh31_Group31 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400050: Mesh32_Group32 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400052: Mesh33_Group33 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400054: Mesh34_Group34 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400056: Mesh35_Group35 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400058: Mesh36_Group36 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400060: Mesh37_Group37 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400062: Mesh38_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400064: Mesh39_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400066: Mesh3_Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400068: Mesh40_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400070: Mesh41_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400072: Mesh42_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400074: Mesh43_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400076: Mesh44_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400078: Mesh45_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400080: Mesh46_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400082: Mesh47_Group39 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400084: Mesh48_Group40 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400086: Mesh49_Group42 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400088: Mesh4_Group7 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400090: Mesh50_Group43 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400092: Mesh51_Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400094: Mesh52_Group45 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400096: Mesh53_Group46 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400098: Mesh54_Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400100: Mesh55_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400102: Mesh56_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400104: Mesh57_Group_23_1 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400106: Mesh58_Group_23_2 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400108: Mesh59_Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    400110: Mesh5_Group8 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400112: Mesh60_Group49 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400114: Mesh61_Group50 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400116: Mesh62_Group51 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400118: Mesh63_Group53 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400120: Mesh64_Group54 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400122: Mesh6_Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400124: Mesh7_Group10 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400126: Mesh8_Group11 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    400128: Mesh9_Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300000: Mesh10_Group13 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300002: Mesh11_Group14 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300004: Mesh12_Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300006: Mesh13_Group_2_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300008: Mesh14_Group_2_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300010: Mesh15_Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    2300012: Mesh16_Group16 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300014: Mesh17_Group17 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300016: Mesh18_Group18 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300018: Mesh19_Group19 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300020: Mesh1_Group4 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300022: Mesh20_Group20 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300024: Mesh21_Group21 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300026: Mesh22_Group22 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300028: Mesh23_Group23 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300030: Mesh24_Group24 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300032: Mesh25_Group25 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300034: Mesh26_Group26 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300036: Mesh27_Group27 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300038: Mesh28_Group28 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300040: Mesh29_Group29 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300042: Mesh2_Group5 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300044: Mesh30_Group30 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300046: Mesh31_Group31 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300048: Mesh32_Group32 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300050: Mesh33_Group33 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300052: Mesh34_Group34 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300054: Mesh35_Group35 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300056: Mesh36_Group36 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300058: Mesh37_Group37 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300060: Mesh38_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300062: Mesh39_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300064: Mesh3_Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300066: Mesh40_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300068: Mesh41_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300070: Mesh42_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300072: Mesh43_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300074: Mesh44_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300076: Mesh45_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300078: Mesh46_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300080: Mesh47_Group39 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300082: Mesh48_Group40 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300084: Mesh49_Group42 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300086: Mesh4_Group7 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300088: Mesh50_Group43 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300090: Mesh51_Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300092: Mesh52_Group45 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300094: Mesh53_Group46 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300096: Mesh54_Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300098: Mesh55_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    2300100: Mesh56_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    2300102: Mesh57_Group_23_1 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300104: Mesh58_Group_23_2 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300106: Mesh59_Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    2300108: Mesh5_Group8 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300110: Mesh60_Group49 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300112: Mesh61_Group50 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300114: Mesh62_Group51 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300116: Mesh63_Group53 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300118: Mesh64_Group54 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300120: Mesh6_Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300122: Mesh7_Group10 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300124: Mesh8_Group11 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    2300126: Mesh9_Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300000: Mesh10_Group13 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300002: Mesh11_Group14 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300004: Mesh12_Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300006: Mesh13_Group_2_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300008: Mesh14_Group_2_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300010: Mesh15_Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    3300012: Mesh16_Group16 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300014: Mesh17_Group17 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300016: Mesh18_Group18 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300018: Mesh19_Group19 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300020: Mesh1_Group4 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300022: Mesh20_Group20 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300024: Mesh21_Group21 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300026: Mesh22_Group22 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300028: Mesh23_Group23 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300030: Mesh24_Group24 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300032: Mesh25_Group25 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300034: Mesh26_Group26 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300036: Mesh27_Group27 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300038: Mesh28_Group28 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300040: Mesh29_Group29 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300042: Mesh2_Group5 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300044: Mesh30_Group30 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300046: Mesh31_Group31 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300048: Mesh32_Group32 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300050: Mesh33_Group33 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300052: Mesh34_Group34 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300054: Mesh35_Group35 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300056: Mesh36_Group36 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300058: Mesh37_Group37 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300060: Mesh38_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300062: Mesh39_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300064: Mesh3_Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300066: Mesh40_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300068: Mesh41_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300070: Mesh42_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300072: Mesh43_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300074: Mesh44_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300076: Mesh45_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300078: Mesh46_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300080: Mesh47_Group39 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300082: Mesh48_Group40 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300084: Mesh49_Group42 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300086: Mesh4_Group7 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300088: Mesh50_Group43 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300090: Mesh51_Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300092: Mesh52_Group45 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300094: Mesh53_Group46 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300096: Mesh54_Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300098: Mesh55_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    3300100: Mesh56_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    3300102: Mesh57_Group_23_1 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300104: Mesh58_Group_23_2 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300106: Mesh59_Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    3300108: Mesh5_Group8 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300110: Mesh60_Group49 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300112: Mesh61_Group50 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300114: Mesh62_Group51 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300116: Mesh63_Group53 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300118: Mesh64_Group54 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300120: Mesh6_Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300122: Mesh7_Group10 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300124: Mesh8_Group11 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    3300126: Mesh9_Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300000: Mesh10_Group13 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300002: Mesh11_Group14 Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300004: Mesh12_Group12 SCREWS_1_4 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300006: Mesh13_Group_2_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300008: Mesh14_Group_2_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300010: Mesh15_Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    4300012: Mesh16_Group16 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300014: Mesh17_Group17 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300016: Mesh18_Group18 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300018: Mesh19_Group19 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300020: Mesh1_Group4 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300022: Mesh20_Group20 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300024: Mesh21_Group21 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300026: Mesh22_Group22 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300028: Mesh23_Group23 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300030: Mesh24_Group24 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300032: Mesh25_Group25 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300034: Mesh26_Group26 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300036: Mesh27_Group27 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300038: Mesh28_Group28 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300040: Mesh29_Group29 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300042: Mesh2_Group5 Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300044: Mesh30_Group30 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300046: Mesh31_Group31 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300048: Mesh32_Group32 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300050: Mesh33_Group33 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300052: Mesh34_Group34 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300054: Mesh35_Group35 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300056: Mesh36_Group36 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300058: Mesh37_Group37 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300060: Mesh38_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300062: Mesh39_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300064: Mesh3_Group3 SCREWS_1_1 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300066: Mesh40_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300068: Mesh41_HDTV_1_1 Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300070: Mesh42_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300072: Mesh43_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300074: Mesh44_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300076: Mesh45_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300078: Mesh46_Group15 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300080: Mesh47_Group39 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300082: Mesh48_Group40 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300084: Mesh49_Group42 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300086: Mesh4_Group7 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300088: Mesh50_Group43 Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300090: Mesh51_Group41 SCREWS_1_5 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300092: Mesh52_Group45 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300094: Mesh53_Group46 Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300096: Mesh54_Group44 SCREWS_1_6 Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300098: Mesh55_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    4300100: Mesh56_Group38 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    4300102: Mesh57_Group_23_1 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300104: Mesh58_Group_23_2 Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300106: Mesh59_Group47 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1 Model
+    4300108: Mesh5_Group8 Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300110: Mesh60_Group49 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300112: Mesh61_Group50 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300114: Mesh62_Group51 Group48 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300116: Mesh63_Group53 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300118: Mesh64_Group54 Group52 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300120: Mesh6_Group6 SCREWS_1_2 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300122: Mesh7_Group10 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300124: Mesh8_Group11 Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    4300126: Mesh9_Group9 SCREWS_1_3 Group2 Group1 WALL_MOUNTED_HDTV__comes_with_a_wall_bracket_1
+      Model
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

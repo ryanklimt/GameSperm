@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 2a97ca9b483ff73439d7657350aabc3d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Minimalistic_Table_Body
+    100004: Minimalistic_Table_Body Support
+    100006: Minimalistic_Table_Leg
+    100008: Minimalistic_Table_Leg_1
+    100010: Minimalistic_Table_Leg_2
+    100012: Minimalistic_Table_Leg_3
+    100014: Null_Chair Body2
+    100016: Null_Chair Body2 Cube4
+    100018: Null_Chair Body2 Cube_15
+    100020: Null_Chair Body2 Cube_24
+    100022: Null_Chair Body2 Cube_33
+    100024: Null_Chair Body2 Cube_45
+    100026: Null_Chair Body2 Cube_55
+    100028: Null_Chair Foam
+    100030: Null_Chair Foam_15
+    100032: Null_Chair_1 Body5
+    100034: Null_Chair_1 Body5 Cube1
+    100036: Null_Chair_1 Body5 Cube_12
+    100038: Null_Chair_1 Body5 Cube_2
+    100040: Null_Chair_1 Body5 Cube_35
+    100042: Null_Chair_1 Body5 Cube_42
+    100044: Null_Chair_1 Body5 Cube_51
+    100046: Null_Chair_1 Foam4
+    100048: Null_Chair_1 Foam_11
+    100050: Null_Chair_2 Body1
+    100052: Null_Chair_2 Body1 Cube5
+    100054: Null_Chair_2 Body1 Cube_1
+    100056: Null_Chair_2 Body1 Cube_25
+    100058: Null_Chair_2 Body1 Cube_3
+    100060: Null_Chair_2 Body1 Cube_41
+    100062: Null_Chair_2 Body1 Cube_5
+    100064: Null_Chair_2 Foam5
+    100066: Null_Chair_2 Foam_1
+    100068: Null_Chair_3 Body3
+    100070: Null_Chair_3 Body3 Cube2
+    100072: Null_Chair_3 Body3 Cube_13
+    100074: Null_Chair_3 Body3 Cube_21
+    100076: Null_Chair_3 Body3 Cube_32
+    100078: Null_Chair_3 Body3 Cube_43
+    100080: Null_Chair_3 Body3 Cube_54
+    100082: Null_Chair_3 Foam1
+    100084: Null_Chair_3 Foam_14
+    100086: Null_Chair_4 Body6
+    100088: Null_Chair_4 Body6 Cube
+    100090: Null_Chair_4 Body6 Cube_11
+    100092: Null_Chair_4 Body6 Cube_22
+    100094: Null_Chair_4 Body6 Cube_31
+    100096: Null_Chair_4 Body6 Cube_4
+    100098: Null_Chair_4 Body6 Cube_52
+    100100: Null_Chair_4 Foam3
+    100102: Null_Chair_4 Foam_12
+    100104: Null_Chair_5 Body4
+    100106: Null_Chair_5 Body4 Cube3
+    100108: Null_Chair_5 Body4 Cube_14
+    100110: Null_Chair_5 Body4 Cube_23
+    100112: Null_Chair_5 Body4 Cube_34
+    100114: Null_Chair_5 Body4 Cube_44
+    100116: Null_Chair_5 Body4 Cube_53
+    100118: Null_Chair_5 Foam2
+    100120: Null_Chair_5 Foam_13
+    400000: //RootNode
+    400002: Minimalistic_Table_Body
+    400004: Minimalistic_Table_Body Support
+    400006: Minimalistic_Table_Leg
+    400008: Minimalistic_Table_Leg_1
+    400010: Minimalistic_Table_Leg_2
+    400012: Minimalistic_Table_Leg_3
+    400014: Null_Chair Body2
+    400016: Null_Chair Body2 Cube4
+    400018: Null_Chair Body2 Cube_15
+    400020: Null_Chair Body2 Cube_24
+    400022: Null_Chair Body2 Cube_33
+    400024: Null_Chair Body2 Cube_45
+    400026: Null_Chair Body2 Cube_55
+    400028: Null_Chair Foam
+    400030: Null_Chair Foam_15
+    400032: Null_Chair_1 Body5
+    400034: Null_Chair_1 Body5 Cube1
+    400036: Null_Chair_1 Body5 Cube_12
+    400038: Null_Chair_1 Body5 Cube_2
+    400040: Null_Chair_1 Body5 Cube_35
+    400042: Null_Chair_1 Body5 Cube_42
+    400044: Null_Chair_1 Body5 Cube_51
+    400046: Null_Chair_1 Foam4
+    400048: Null_Chair_1 Foam_11
+    400050: Null_Chair_2 Body1
+    400052: Null_Chair_2 Body1 Cube5
+    400054: Null_Chair_2 Body1 Cube_1
+    400056: Null_Chair_2 Body1 Cube_25
+    400058: Null_Chair_2 Body1 Cube_3
+    400060: Null_Chair_2 Body1 Cube_41
+    400062: Null_Chair_2 Body1 Cube_5
+    400064: Null_Chair_2 Foam5
+    400066: Null_Chair_2 Foam_1
+    400068: Null_Chair_3 Body3
+    400070: Null_Chair_3 Body3 Cube2
+    400072: Null_Chair_3 Body3 Cube_13
+    400074: Null_Chair_3 Body3 Cube_21
+    400076: Null_Chair_3 Body3 Cube_32
+    400078: Null_Chair_3 Body3 Cube_43
+    400080: Null_Chair_3 Body3 Cube_54
+    400082: Null_Chair_3 Foam1
+    400084: Null_Chair_3 Foam_14
+    400086: Null_Chair_4 Body6
+    400088: Null_Chair_4 Body6 Cube
+    400090: Null_Chair_4 Body6 Cube_11
+    400092: Null_Chair_4 Body6 Cube_22
+    400094: Null_Chair_4 Body6 Cube_31
+    400096: Null_Chair_4 Body6 Cube_4
+    400098: Null_Chair_4 Body6 Cube_52
+    400100: Null_Chair_4 Foam3
+    400102: Null_Chair_4 Foam_12
+    400104: Null_Chair_5 Body4
+    400106: Null_Chair_5 Body4 Cube3
+    400108: Null_Chair_5 Body4 Cube_14
+    400110: Null_Chair_5 Body4 Cube_23
+    400112: Null_Chair_5 Body4 Cube_34
+    400114: Null_Chair_5 Body4 Cube_44
+    400116: Null_Chair_5 Body4 Cube_53
+    400118: Null_Chair_5 Foam2
+    400120: Null_Chair_5 Foam_13
+    2300000: Minimalistic_Table_Body
+    2300002: Minimalistic_Table_Body Support
+    2300004: Minimalistic_Table_Leg
+    2300006: Minimalistic_Table_Leg_1
+    2300008: Minimalistic_Table_Leg_2
+    2300010: Minimalistic_Table_Leg_3
+    2300012: Null_Chair Body2
+    2300014: Null_Chair Body2 Cube4
+    2300016: Null_Chair Body2 Cube_15
+    2300018: Null_Chair Body2 Cube_24
+    2300020: Null_Chair Body2 Cube_33
+    2300022: Null_Chair Body2 Cube_45
+    2300024: Null_Chair Body2 Cube_55
+    2300026: Null_Chair Foam
+    2300028: Null_Chair Foam_15
+    2300030: Null_Chair_1 Body5
+    2300032: Null_Chair_1 Body5 Cube1
+    2300034: Null_Chair_1 Body5 Cube_12
+    2300036: Null_Chair_1 Body5 Cube_2
+    2300038: Null_Chair_1 Body5 Cube_35
+    2300040: Null_Chair_1 Body5 Cube_42
+    2300042: Null_Chair_1 Body5 Cube_51
+    2300044: Null_Chair_1 Foam4
+    2300046: Null_Chair_1 Foam_11
+    2300048: Null_Chair_2 Body1
+    2300050: Null_Chair_2 Body1 Cube5
+    2300052: Null_Chair_2 Body1 Cube_1
+    2300054: Null_Chair_2 Body1 Cube_25
+    2300056: Null_Chair_2 Body1 Cube_3
+    2300058: Null_Chair_2 Body1 Cube_41
+    2300060: Null_Chair_2 Body1 Cube_5
+    2300062: Null_Chair_2 Foam5
+    2300064: Null_Chair_2 Foam_1
+    2300066: Null_Chair_3 Body3
+    2300068: Null_Chair_3 Body3 Cube2
+    2300070: Null_Chair_3 Body3 Cube_13
+    2300072: Null_Chair_3 Body3 Cube_21
+    2300074: Null_Chair_3 Body3 Cube_32
+    2300076: Null_Chair_3 Body3 Cube_43
+    2300078: Null_Chair_3 Body3 Cube_54
+    2300080: Null_Chair_3 Foam1
+    2300082: Null_Chair_3 Foam_14
+    2300084: Null_Chair_4 Body6
+    2300086: Null_Chair_4 Body6 Cube
+    2300088: Null_Chair_4 Body6 Cube_11
+    2300090: Null_Chair_4 Body6 Cube_22
+    2300092: Null_Chair_4 Body6 Cube_31
+    2300094: Null_Chair_4 Body6 Cube_4
+    2300096: Null_Chair_4 Body6 Cube_52
+    2300098: Null_Chair_4 Foam3
+    2300100: Null_Chair_4 Foam_12
+    2300102: Null_Chair_5 Body4
+    2300104: Null_Chair_5 Body4 Cube3
+    2300106: Null_Chair_5 Body4 Cube_14
+    2300108: Null_Chair_5 Body4 Cube_23
+    2300110: Null_Chair_5 Body4 Cube_34
+    2300112: Null_Chair_5 Body4 Cube_44
+    2300114: Null_Chair_5 Body4 Cube_53
+    2300116: Null_Chair_5 Foam2
+    2300118: Null_Chair_5 Foam_13
+    3300000: Minimalistic_Table_Body
+    3300002: Minimalistic_Table_Body Support
+    3300004: Minimalistic_Table_Leg
+    3300006: Minimalistic_Table_Leg_1
+    3300008: Minimalistic_Table_Leg_2
+    3300010: Minimalistic_Table_Leg_3
+    3300012: Null_Chair Body2
+    3300014: Null_Chair Body2 Cube4
+    3300016: Null_Chair Body2 Cube_15
+    3300018: Null_Chair Body2 Cube_24
+    3300020: Null_Chair Body2 Cube_33
+    3300022: Null_Chair Body2 Cube_45
+    3300024: Null_Chair Body2 Cube_55
+    3300026: Null_Chair Foam
+    3300028: Null_Chair Foam_15
+    3300030: Null_Chair_1 Body5
+    3300032: Null_Chair_1 Body5 Cube1
+    3300034: Null_Chair_1 Body5 Cube_12
+    3300036: Null_Chair_1 Body5 Cube_2
+    3300038: Null_Chair_1 Body5 Cube_35
+    3300040: Null_Chair_1 Body5 Cube_42
+    3300042: Null_Chair_1 Body5 Cube_51
+    3300044: Null_Chair_1 Foam4
+    3300046: Null_Chair_1 Foam_11
+    3300048: Null_Chair_2 Body1
+    3300050: Null_Chair_2 Body1 Cube5
+    3300052: Null_Chair_2 Body1 Cube_1
+    3300054: Null_Chair_2 Body1 Cube_25
+    3300056: Null_Chair_2 Body1 Cube_3
+    3300058: Null_Chair_2 Body1 Cube_41
+    3300060: Null_Chair_2 Body1 Cube_5
+    3300062: Null_Chair_2 Foam5
+    3300064: Null_Chair_2 Foam_1
+    3300066: Null_Chair_3 Body3
+    3300068: Null_Chair_3 Body3 Cube2
+    3300070: Null_Chair_3 Body3 Cube_13
+    3300072: Null_Chair_3 Body3 Cube_21
+    3300074: Null_Chair_3 Body3 Cube_32
+    3300076: Null_Chair_3 Body3 Cube_43
+    3300078: Null_Chair_3 Body3 Cube_54
+    3300080: Null_Chair_3 Foam1
+    3300082: Null_Chair_3 Foam_14
+    3300084: Null_Chair_4 Body6
+    3300086: Null_Chair_4 Body6 Cube
+    3300088: Null_Chair_4 Body6 Cube_11
+    3300090: Null_Chair_4 Body6 Cube_22
+    3300092: Null_Chair_4 Body6 Cube_31
+    3300094: Null_Chair_4 Body6 Cube_4
+    3300096: Null_Chair_4 Body6 Cube_52
+    3300098: Null_Chair_4 Foam3
+    3300100: Null_Chair_4 Foam_12
+    3300102: Null_Chair_5 Body4
+    3300104: Null_Chair_5 Body4 Cube3
+    3300106: Null_Chair_5 Body4 Cube_14
+    3300108: Null_Chair_5 Body4 Cube_23
+    3300110: Null_Chair_5 Body4 Cube_34
+    3300112: Null_Chair_5 Body4 Cube_44
+    3300114: Null_Chair_5 Body4 Cube_53
+    3300116: Null_Chair_5 Foam2
+    3300118: Null_Chair_5 Foam_13
+    4300000: Minimalistic_Table_Body
+    4300002: Minimalistic_Table_Body Support
+    4300004: Minimalistic_Table_Leg
+    4300006: Minimalistic_Table_Leg_1
+    4300008: Minimalistic_Table_Leg_2
+    4300010: Minimalistic_Table_Leg_3
+    4300012: Null_Chair Body2
+    4300014: Null_Chair Body2 Cube4
+    4300016: Null_Chair Body2 Cube_15
+    4300018: Null_Chair Body2 Cube_24
+    4300020: Null_Chair Body2 Cube_33
+    4300022: Null_Chair Body2 Cube_45
+    4300024: Null_Chair Body2 Cube_55
+    4300026: Null_Chair Foam
+    4300028: Null_Chair Foam_15
+    4300030: Null_Chair_1 Body5
+    4300032: Null_Chair_1 Body5 Cube1
+    4300034: Null_Chair_1 Body5 Cube_12
+    4300036: Null_Chair_1 Body5 Cube_2
+    4300038: Null_Chair_1 Body5 Cube_35
+    4300040: Null_Chair_1 Body5 Cube_42
+    4300042: Null_Chair_1 Body5 Cube_51
+    4300044: Null_Chair_1 Foam4
+    4300046: Null_Chair_1 Foam_11
+    4300048: Null_Chair_2 Body1
+    4300050: Null_Chair_2 Body1 Cube5
+    4300052: Null_Chair_2 Body1 Cube_1
+    4300054: Null_Chair_2 Body1 Cube_25
+    4300056: Null_Chair_2 Body1 Cube_3
+    4300058: Null_Chair_2 Body1 Cube_41
+    4300060: Null_Chair_2 Body1 Cube_5
+    4300062: Null_Chair_2 Foam5
+    4300064: Null_Chair_2 Foam_1
+    4300066: Null_Chair_3 Body3
+    4300068: Null_Chair_3 Body3 Cube2
+    4300070: Null_Chair_3 Body3 Cube_13
+    4300072: Null_Chair_3 Body3 Cube_21
+    4300074: Null_Chair_3 Body3 Cube_32
+    4300076: Null_Chair_3 Body3 Cube_43
+    4300078: Null_Chair_3 Body3 Cube_54
+    4300080: Null_Chair_3 Foam1
+    4300082: Null_Chair_3 Foam_14
+    4300084: Null_Chair_4 Body6
+    4300086: Null_Chair_4 Body6 Cube
+    4300088: Null_Chair_4 Body6 Cube_11
+    4300090: Null_Chair_4 Body6 Cube_22
+    4300092: Null_Chair_4 Body6 Cube_31
+    4300094: Null_Chair_4 Body6 Cube_4
+    4300096: Null_Chair_4 Body6 Cube_52
+    4300098: Null_Chair_4 Foam3
+    4300100: Null_Chair_4 Foam_12
+    4300102: Null_Chair_5 Body4
+    4300104: Null_Chair_5 Body4 Cube3
+    4300106: Null_Chair_5 Body4 Cube_14
+    4300108: Null_Chair_5 Body4 Cube_23
+    4300110: Null_Chair_5 Body4 Cube_34
+    4300112: Null_Chair_5 Body4 Cube_44
+    4300114: Null_Chair_5 Body4 Cube_53
+    4300116: Null_Chair_5 Foam2
+    4300118: Null_Chair_5 Foam_13
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
