@@ -2,7 +2,7 @@
 public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
-public var loadingScene = null;
+public var loadingScene : String = null;
 
 var blackScreen : Texture2D;
 private var fadeIn : boolean = true;
@@ -10,7 +10,7 @@ var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
-public var highScore : float = 0.0;
+private var highScore : float = 0.0;
 
 function ScoreMenu() {
 	//layout start
@@ -30,22 +30,16 @@ function ScoreMenu() {
 
 function OnGUI () {
 	ScoreMenu();
-
-	if (fadeIn)
-	{
+	if (fadeIn) {
 		color.a = timer / fadeTime;
-	}
-	else
-	{
+	} else {
 		color.a = 1 - (timer / fadeTime);
 	}
-
 	GUI.color = color;
 	GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), blackScreen);
 }
 
 function Start () {
-	Screen.lockCursor = false;
 	highScore = PlayerPrefs.GetFloat("score");
 }
 
@@ -74,6 +68,4 @@ function FadeOut(sceneName:String)
 		fadeIn = false;
 		loadingScene = sceneName;
 	}
-	PlayerPrefs.SetFloat("score", 100.2);
-	PlayerPrefs.Save();
 }

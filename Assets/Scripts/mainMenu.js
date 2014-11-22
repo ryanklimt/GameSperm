@@ -2,7 +2,7 @@
 public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
-public var loadingScene = null;
+public var loadingScene : String = null;
 
 var blackScreen : Texture2D;
 private var fadeIn : boolean = true;
@@ -16,7 +16,7 @@ function MainMenu() {
 	GUI.backgroundColor = Color.clear;
 	
 	//title
-	GUI.Label(Rect(55, 55, 150, 40),"GameSperm", normalMenu);
+	GUI.Label(Rect(55, 55, 150, 40), "GameSperm", normalMenu);
 	
 	//main menu buttons
 	if(GUI.Button(Rect(55, 110, 150, 75), "Play", largeMenu)) FadeOut("MainScene");
@@ -30,16 +30,11 @@ function MainMenu() {
 
 function OnGUI () {
 	MainMenu();
-
-	if (fadeIn)
-	{
+	if (fadeIn)	{
 		color.a = timer / fadeTime;
-	}
-	else
-	{
+	} else {
 		color.a = 1 - (timer / fadeTime);
 	}
-
 	GUI.color = color;
 	GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), blackScreen);
 }

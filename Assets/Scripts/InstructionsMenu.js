@@ -2,7 +2,7 @@ public var smallMenu : GUIStyle = null;
 public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
-public var loadingScene = null;
+public var loadingScene : String = null;
 
 var blackScreen : Texture2D;
 private var fadeIn : boolean = true;
@@ -28,22 +28,16 @@ function InstructionsMenu() {
 
 function OnGUI () {
 	InstructionsMenu();
-
-	if (fadeIn)
-	{
+	if (fadeIn) {
 		color.a = timer / fadeTime;
-	}
-	else
-	{
+	} else {
 		color.a = 1 - (timer / fadeTime);
 	}
-
 	GUI.color = color;
 	GUI.DrawTexture(new Rect(0, 0, Screen.width, Screen.height), blackScreen);
 }
 
 function Start () {
-	Screen.lockCursor = false; 
 }
 
 function Update () {
