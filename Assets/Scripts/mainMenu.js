@@ -22,7 +22,7 @@ function MainMenu() {
 	if(GUI.Button(Rect(55, 110, 150, 75), "Play", largeMenu)) FadeOut("MainScene");
 	if(GUI.Button(Rect(55, 200, 150, 40), "How", normalMenu)) FadeOut("InstructionsScene");
 	if(GUI.Button(Rect(55, 245, 150, 40), "Scores", normalMenu)) FadeOut("ScoreScene");
-	if(GUI.Button(Rect(55, 290, 150, 40), "Exit", normalMenu)) Application.Quit(); //FadeOut("SecretScene");
+	if(GUI.Button(Rect(55, 290, 150, 40), "Exit", normalMenu)) FadeOut("SecretScene");
 	
 	//layout end
 	GUI.EndGroup();
@@ -40,7 +40,7 @@ function OnGUI () {
 }
 
 function Start () {
-	Screen.lockCursor = false; 
+	Screen.lockCursor = false;
 }
 
 function Update () {

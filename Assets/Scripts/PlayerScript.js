@@ -8,7 +8,6 @@ var possibleItems : String[];
 var itemToCollect : String;
 
 function Start () {
-	Screen.lockCursor = true;
 	possibleItems = Array("Statue");
 	itemToCollect = possibleItems[0];
 }

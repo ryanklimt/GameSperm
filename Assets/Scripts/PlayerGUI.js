@@ -6,6 +6,10 @@ private var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
+function Start () {
+	Screen.lockCursor = true;
+}
+
 function Update () {
 	timer -= Time.deltaTime;
 	if (timer <= 0) {
@@ -15,7 +19,7 @@ function Update () {
 		}
 	}
 	if (Input.GetKey(KeyCode.Escape)) {
-		FadeOut("MenuScene");
+		//FadeOut("MenuScene");
 	}
 }
 
