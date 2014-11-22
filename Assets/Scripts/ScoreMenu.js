@@ -1,4 +1,5 @@
-﻿public var normalMenu : GUIStyle = null;
+﻿public var smallMenu : GUIStyle = null;
+public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
 public var loadingScene = null;
@@ -9,19 +10,19 @@ var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
+public var highScore : float = 0.0;
+
 function ScoreMenu() {
 	//layout start
-	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, 300, 400));
+	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, Screen.width-15, 500));
 	GUI.backgroundColor = Color.clear;
 	
-	//the menu background box
-	GUI.Box(Rect(0, 0, 300, 400),"");
-	
 	//title
-	GUI.Label(Rect(55, 55, 180, 40),"Scores", normalMenu);
+	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	if(GUI.Button(Rect(55, 110, 180, 75), "Back", largeMenu)) FadeOut("MenuScene");
+	GUI.Label(Rect(55, 110, 150, 75), "Best Time:", largeMenu);
+	GUI.Label(Rect(55, 200, 150, 40), highScore + " seconds", normalMenu);
 	
 	//layout end
 	GUI.EndGroup();
@@ -44,7 +45,8 @@ function OnGUI () {
 }
 
 function Start () {
-	Screen.lockCursor = false; 
+	Screen.lockCursor = false;
+	highScore = PlayerPrefs.GetFloat("score");
 }
 
 function Update () {
@@ -67,7 +69,11 @@ function FadeIn()
 
 function FadeOut(sceneName:String)
 {
-	timer = fadeTime;
-	fadeIn = false;
-	loadingScene = sceneName;
+	if(!loadingScene) {
+		timer = fadeTime;
+		fadeIn = false;
+		loadingScene = sceneName;
+	}
+	PlayerPrefs.SetFloat("score", 100.2);
+	PlayerPrefs.Save();
 }

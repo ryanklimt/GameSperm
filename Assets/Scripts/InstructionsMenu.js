@@ -1,4 +1,5 @@
-﻿public var normalMenu : GUIStyle = null;
+public var smallMenu : GUIStyle = null;
+public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
 public var loadingScene = null;
@@ -11,17 +12,15 @@ private var timer : float = 1;
 
 function InstructionsMenu() {
 	//layout start
-	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, 300, 400));
+	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, Screen.width-15, 500));
 	GUI.backgroundColor = Color.clear;
 	
-	//the menu background box
-	GUI.Box(Rect(0, 0, 300, 400),"");
-	
 	//title
-	GUI.Label(Rect(55, 55, 180, 40),"How", normalMenu);
+	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	if(GUI.Button(Rect(55, 110, 180, 75), "Back", largeMenu)) FadeOut("MenuScene");
+	GUI.Label(Rect(55, 110, 150, 75), "How", largeMenu);
+	GUI.Label(Rect(55, 200, Screen.width-155, 40), "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", smallMenu);
 	
 	//layout end
 	GUI.EndGroup();
@@ -67,7 +66,9 @@ function FadeIn()
 
 function FadeOut(sceneName:String)
 {
-	timer = fadeTime;
-	fadeIn = false;
-	loadingScene = sceneName;
+	if(!loadingScene) {
+		timer = fadeTime;
+		fadeIn = false;
+		loadingScene = sceneName;
+	}
 }
