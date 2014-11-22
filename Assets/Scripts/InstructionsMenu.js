@@ -1,4 +1,4 @@
-﻿public var smallMenu : GUIStyle = null;
+public var smallMenu : GUIStyle = null;
 public var normalMenu : GUIStyle = null;
 public var largeMenu : GUIStyle = null;
 
@@ -10,26 +10,24 @@ var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
-function MainMenu() {
+function InstructionsMenu() {
 	//layout start
 	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, Screen.width-15, 500));
 	GUI.backgroundColor = Color.clear;
 	
 	//title
-	GUI.Label(Rect(55, 55, 150, 40),"GameSperm", normalMenu);
+	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	if(GUI.Button(Rect(55, 110, 150, 75), "Play", largeMenu)) FadeOut("MainScene");
-	if(GUI.Button(Rect(55, 200, 150, 40), "How", normalMenu)) FadeOut("InstructionsScene");
-	if(GUI.Button(Rect(55, 245, 150, 40), "Scores", normalMenu)) FadeOut("ScoreScene");
-	if(GUI.Button(Rect(55, 290, 150, 40), "Exit", normalMenu)) Application.Quit(); //FadeOut("SecretScene");
+	GUI.Label(Rect(55, 110, 150, 75), "How", largeMenu);
+	GUI.Label(Rect(55, 200, Screen.width-155, 40), "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", smallMenu);
 	
 	//layout end
 	GUI.EndGroup();
 }
 
 function OnGUI () {
-	MainMenu();
+	InstructionsMenu();
 
 	if (fadeIn)
 	{

@@ -10,26 +10,26 @@ var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
-function MainMenu() {
+public var highScore : float = 0.0;
+
+function ScoreMenu() {
 	//layout start
 	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, Screen.width-15, 500));
 	GUI.backgroundColor = Color.clear;
 	
 	//title
-	GUI.Label(Rect(55, 55, 150, 40),"GameSperm", normalMenu);
+	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	if(GUI.Button(Rect(55, 110, 150, 75), "Play", largeMenu)) FadeOut("MainScene");
-	if(GUI.Button(Rect(55, 200, 150, 40), "How", normalMenu)) FadeOut("InstructionsScene");
-	if(GUI.Button(Rect(55, 245, 150, 40), "Scores", normalMenu)) FadeOut("ScoreScene");
-	if(GUI.Button(Rect(55, 290, 150, 40), "Exit", normalMenu)) Application.Quit(); //FadeOut("SecretScene");
+	GUI.Label(Rect(55, 110, 150, 75), "Best Time:", largeMenu);
+	GUI.Label(Rect(55, 200, 150, 40), highScore + " seconds", normalMenu);
 	
 	//layout end
 	GUI.EndGroup();
 }
 
 function OnGUI () {
-	MainMenu();
+	ScoreMenu();
 
 	if (fadeIn)
 	{
@@ -45,7 +45,8 @@ function OnGUI () {
 }
 
 function Start () {
-	Screen.lockCursor = false; 
+	Screen.lockCursor = false;
+	highScore = PlayerPrefs.GetFloat("score");
 }
 
 function Update () {
@@ -73,4 +74,6 @@ function FadeOut(sceneName:String)
 		fadeIn = false;
 		loadingScene = sceneName;
 	}
+	PlayerPrefs.SetFloat("score", 100.2);
+	PlayerPrefs.Save();
 }
