@@ -19,7 +19,7 @@ function Update () {
 		}
 	}
 	if (Input.GetKey(KeyCode.Escape)) {
-		//FadeOut("MenuScene");
+		FadeOut("MenuScene");
 	}
 }
 
