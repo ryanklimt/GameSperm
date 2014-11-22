@@ -8,8 +8,9 @@ var possibleItems : String[];
 var itemToCollect : String;
 
 function Start () {
-	possibleItems = Array("Statue");
-	itemToCollect = possibleItems[0];
+	possibleItems = Array("HDTV", "elf", "Chest", "Lamp", "Statue", "LaptopUmbrella");
+	itemToCollect = possibleItems[Random.Range(0,6)];
+
 }
 
 function Update () {
