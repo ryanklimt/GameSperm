@@ -9,8 +9,8 @@ var itemToCollect : String;
 
 function Start () {
 	Screen.lockCursor = true;
-	possibleItems = Array("Statue", "Raspberry", "android");
-	itemToCollect = possibleItems[Random.Range(0,3)];
+	possibleItems = Array("Statue");
+	itemToCollect = possibleItems[0];
 }
 
 function Update () {
@@ -31,11 +31,12 @@ function Update () {
 
 function OnGUI () {
 	GUI.Label(Rect(15, (Screen.height-35),200,35),"" + currentTimer);
+	GUI.Label(Rect(15, (Screen.height-70),200,35),"" + itemToCollect);
 }
 
 function saveScore (score:float) {
 	highScore = PlayerPrefs.GetFloat("score");
-	if(score == 0 || highScore > score) {
+	if(highScore == 0 || highScore > score) {
 		PlayerPrefs.SetFloat("score", score);
 		PlayerPrefs.Save();
 	}
