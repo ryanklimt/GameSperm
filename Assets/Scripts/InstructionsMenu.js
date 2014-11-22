@@ -20,7 +20,11 @@ function InstructionsMenu() {
 	
 	//main menu buttons
 	GUI.Label(Rect(55, 110, 150, 75), "How", largeMenu);
-	GUI.Label(Rect(55, 200, Screen.width-155, 40), "Over the years, we have been watching you. Your campaigns of misinformation; suppression of dissent; your litigious nature, all of these things have caught our eye. With the leakage of your latest propaganda video into mainstream circulation, the extent of your malign influence over those who trust you, who call you leader, has been made clear to us. Anonymous has therefore decided that your organization should be destroyed. For the good of your followers, for the good of mankind--for the laughs--we shall expel you from the Internet and systematically dismantle the Church of Scientology in its present form. We acknowledge you as a serious opponent, and we are prepared for a long, long campaign. You will not prevail forever against the angry masses of the body politic. Your methods, hypocrisy, and the artlessness of your organization have sounded its death knell.", smallMenu);
+	GUI.Label(Rect(55, 200, Screen.width-155, 40), "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us.", smallMenu);
+	GUI.Label(Rect(55, 240, Screen.width-155, 40), "We are Legion. We do not forgive. We do not forget. Expect us.", smallMenu);
+	GUI.Label(Rect(55, 280, Screen.width-155, 40), "We do not forgive. We do not forget. Expect us.", smallMenu);
+	GUI.Label(Rect(55, 320, Screen.width-155, 40), "We do not forget. Expect us.", smallMenu);
+	GUI.Label(Rect(55, 360, Screen.width-155, 40), "Expect us.", smallMenu);
 	
 	//layout end
 	GUI.EndGroup();
