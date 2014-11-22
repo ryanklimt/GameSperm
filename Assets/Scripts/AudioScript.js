@@ -13,7 +13,12 @@ function Start () {
 }
 
 function Update () {
-	if((Application.loadedLevelName == "MenuScene" && currentScene == "MainScene") || (Application.loadedLevelName == "MainScene" && currentScene == "MenuScene") || (Application.loadedLevelName == "MenuScene" && currentScene == "SecretScene") || (Application.loadedLevelName == "SecretScene" && currentScene == "MenuScene")) {
+	if(
+		(Application.loadedLevelName == "MenuScene"   && currentScene == "MainScene")   || 
+		(Application.loadedLevelName == "MenuScene"   && currentScene == "SecretScene") || 
+		(Application.loadedLevelName == "MainScene"   && currentScene == "MenuScene")   || 
+		(Application.loadedLevelName == "SecretScene" && currentScene == "MenuScene")
+	) {
 		currentScene = Application.loadedLevelName;
 		changeAudio();
 	}
