@@ -5,13 +5,13 @@ function Start () {
 	var pointA = transform.position;
 	var pointB = transform.position;
 	if (transform.eulerAngles.y >= 270) {
-		pointB.x += 0.5;
+		pointB.x += 0.7;
 	} else if(transform.eulerAngles.y >= 180) {
-		pointB.z -= 0.5;
+		pointB.z -= 0.7;
 	} else if (transform.eulerAngles.y >= 90) {
-		pointB.x += 0.5;
+		pointB.x += 0.7;
 	} else if (transform.eulerAngles.y >= 0) {
-		pointB.z += 0.5;
+		pointB.z += 0.7;
 	}
 	while (true) {
 		yield MoveMask(transform, pointA, pointB, speed);
