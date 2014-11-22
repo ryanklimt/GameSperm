@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{0BC7AF80-D90B-5F68-6C88-3E8BED72B383}</ProjectGuid>
+	<ProjectGuid>{420A77FA-EC35-1806-D34E-3382C6502923}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -39,29 +39,40 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>F:/Program Files/Unity/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>F:/Program Files/Unity/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\InstructionsMenu.js" />
-     <Compile Include="Assets\Scripts\MainMenu.js" />
      <Compile Include="Assets\Scripts\PlayerGUI.js" />
      <Compile Include="Assets\Scripts\PlayerScript.js" />
      <Compile Include="Assets\Scripts\ScoreMenu.js" />
      <Compile Include="Assets\Scripts\ToggleMenuLight.js" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\VendMask.js" />
+=======
+     <Compile Include="Assets\Scripts\mainMenu.js" />
+     <None Include="Assets\bedroom\69d84k7ia0ow-Chest\Chest\Read me.txt" />
+>>>>>>> 5e383d62273363f3d435e78303b784d3988b19c2
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\bedroom\enhjhu313p4w-bunk_bed\New Text Document.txt" />
+     <None Include="Assets\kitchen\Microwave\archibase.net.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\bedroom\ghwnguud38xs-bedside-table\Read-me.txt" />
+     <None Include="Assets\living room\Vase\archibase.net.txt" />
      <None Include="Assets\Materials\archibase.net.txt" />
+     <None Include="Assets\kitchen\k6o6xzmpd5vk-Kitchen-set\Read-me.txt" />
+     <None Include="Assets\bedroom\5oae0o857myo-bedroom-heater\Read-me.txt" />
+     <None Include="Assets\kitchen\Kettle\archibase.net.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{8671C292-8255-E05C-FD31-D666E94FB50D}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{F456EA5C-A238-E42A-7140-0C4E58167FC2}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
-      <Project>{56197300-9B1B-3EB5-F144-262DD450F182}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+      <Project>{AF82202F-FB64-83D3-F754-012A3ED1787C}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
