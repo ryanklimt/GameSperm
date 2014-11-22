@@ -14,7 +14,7 @@ function Start () {
 function Update() { 
 	if (Time.time > changeTime) { 
 		light.enabled = !light.enabled;
-		timeOn = Random.Range(0, 1);
+		timeOn = Random.Range(0.1, 1.0);
 		timeOff = Random.Range(0, 1.5);
 		if (light.enabled) {
 			changeTime = Time.time + timeOn;

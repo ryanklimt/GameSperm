@@ -9,7 +9,7 @@ var fadeTime : float = 1;
 private var color : Color = Color.black;
 private var timer : float = 1;
 
-function MainMenu() {
+function ScoreMenu() {
 	//layout start
 	GUI.BeginGroup(Rect(15, Screen.height/2 - 200, 300, 400));
 	GUI.backgroundColor = Color.clear;
@@ -18,20 +18,17 @@ function MainMenu() {
 	GUI.Box(Rect(0, 0, 300, 400),"");
 	
 	//title
-	GUI.Label(Rect(55, 55, 180, 40),"GameSperm", normalMenu);
+	GUI.Label(Rect(55, 55, 180, 40),"Scores", normalMenu);
 	
 	//main menu buttons
-	if(GUI.Button(Rect(55, 110, 180, 75), "Play", largeMenu)) FadeOut("MainScene");
-	if(GUI.Button(Rect(55, 200, 180, 40), "How", normalMenu)) FadeOut("InstructionsScene");
-	if(GUI.Button(Rect(55, 245, 180, 40), "Scores", normalMenu)) FadeOut("ScoreScene");
-	if(GUI.Button(Rect(55, 290, 180, 40), "Exit", normalMenu)) Application.Quit(); //FadeOut("SecretScene");
+	if(GUI.Button(Rect(55, 110, 180, 75), "Back", largeMenu)) FadeOut("MenuScene");
 	
 	//layout end
 	GUI.EndGroup();
 }
 
 function OnGUI () {
-	MainMenu();
+	ScoreMenu();
 
 	if (fadeIn)
 	{

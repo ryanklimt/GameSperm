@@ -46,9 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\InstructionsMenu.js" />
+     <Compile Include="Assets\Scripts\MainMenu.js" />
      <Compile Include="Assets\Scripts\PlayerScript.js" />
+     <Compile Include="Assets\Scripts\ScoreMenu.js" />
      <Compile Include="Assets\Scripts\ToggleMenuLight.js" />
-     <Compile Include="Assets\Scripts\mainMenu.js" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
