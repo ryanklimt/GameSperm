@@ -1,0 +1,32 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M                   (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Script error (flicker): Update() can not be a coroutine.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 386)
+
+UnloadTime: 0.415679 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1844.
+Total: 0.627795 ms (FindLiveObjects: 0.070562 ms CreateObjectMapping: 0.022237 ms MarkObjects: 0.163363 ms  DeleteObjects: 0.062009 ms)
+
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityScript.Lang.dll (this message is harmless)

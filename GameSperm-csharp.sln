@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{8315D2D6-2FA1-BF88-291D-1FA0E1EBFA36}") = "GameSperm", "Assembly-CSharp-firstpass-vs.csproj", "{8671C292-8255-E05C-FD31-D666E94FB50D}"
+Project("{5972BCF6-A7A2-4224-AB13-4FE839923710}") = "gamesperm", "Assembly-CSharp-firstpass-vs.csproj", "{F456EA5C-A238-E42A-7140-0C4E58167FC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8671C292-8255-E05C-FD31-D666E94FB50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8671C292-8255-E05C-FD31-D666E94FB50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8671C292-8255-E05C-FD31-D666E94FB50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8671C292-8255-E05C-FD31-D666E94FB50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F456EA5C-A238-E42A-7140-0C4E58167FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F456EA5C-A238-E42A-7140-0C4E58167FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F456EA5C-A238-E42A-7140-0C4E58167FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F456EA5C-A238-E42A-7140-0C4E58167FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																												GlobalSection(MonoDevelopProperties) = preSolution
+																															GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																										GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> 5e383d62273363f3d435e78303b784d3988b19c2
