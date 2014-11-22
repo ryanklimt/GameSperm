@@ -9,8 +9,7 @@ var itemToCollect : String;
 
 function Start () {
 	possibleItems = Array("HDTV", "elf", "Chest", "Statue", "Laptop");
-	itemToCollect = possibleItems[Random.Range(0,6)];
-
+	itemToCollect = possibleItems[Random.Range(0,5)];
 }
 
 function Update () {

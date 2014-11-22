@@ -2,31 +2,45 @@ Initialize engine version: 4.5.5f1 (7684ad0c5a44)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 740M                   (ID=0x1292)
-    Vendor:   NVIDIA
-    VRAM:     1972 MB
+    Renderer: AMD Radeon HD 7700 Series (ID=0x665c)
+    Vendor:   ATI
+    VRAM:     992 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.078 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Script error (flicker): Update() can not be a coroutine.
- 
-(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoScriptCache.cpp Line: 386)
-
-UnloadTime: 0.415679 ms
+UnloadTime: 0.721600 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1844.
-Total: 0.627795 ms (FindLiveObjects: 0.070562 ms CreateObjectMapping: 0.022237 ms MarkObjects: 0.163363 ms  DeleteObjects: 0.062009 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1533.
+Total: 0.957733 ms (FindLiveObjects: 0.089955 ms CreateObjectMapping: 0.029822 ms MarkObjects: 0.190666 ms  DeleteObjects: 0.049866 ms)
 
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\Boo.Lang.dll (this message is harmless)
-Platform assembly: C:\Users\Michael\Desktop\gamesperm\thelights_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\thelights_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 1.612844 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 280 unused Assets to reduce memory usage. Loaded Objects now: 126.
+Total: 2.287511 ms (FindLiveObjects: 0.010755 ms CreateObjectMapping: 0.013688 ms MarkObjects: 0.084088 ms  DeleteObjects: 1.613333 ms)
+
+UnloadTime: 0.304088 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.863377 ms (FindLiveObjects: 0.009777 ms CreateObjectMapping: 0.012711 ms MarkObjects: 0.094844 ms  DeleteObjects: 0.176000 ms)
+
+UnloadTime: 0.455644 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 124.
+Total: 0.682000 ms (FindLiveObjects: 0.006355 ms CreateObjectMapping: 0.012711 ms MarkObjects: 0.090444 ms  DeleteObjects: 0.032266 ms)
+
