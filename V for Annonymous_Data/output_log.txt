@@ -1,0 +1,59 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7700 Series (ID=0x665c)
+    Vendor:   ATI
+    VRAM:     992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.440488 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 0.926444 ms (FindLiveObjects: 0.096800 ms CreateObjectMapping: 0.028355 ms MarkObjects: 0.181377 ms  DeleteObjects: 0.006844 ms)
+
+Platform assembly: C:\Users\Ryan\Desktop\GameSperm\V for Annonymous_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 2.191689 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 290 unused Assets to reduce memory usage. Loaded Objects now: 124.
+Total: 3.222267 ms (FindLiveObjects: 0.012222 ms CreateObjectMapping: 0.015644 ms MarkObjects: 0.096311 ms  DeleteObjects: 2.556889 ms)
+
+UnloadTime: 0.348088 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 0.846755 ms (FindLiveObjects: 0.080666 ms CreateObjectMapping: 0.023466 ms MarkObjects: 0.187733 ms  DeleteObjects: 0.005866 ms)
+
+UnloadTime: 1.825511 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 290 unused Assets to reduce memory usage. Loaded Objects now: 124.
+Total: 2.259644 ms (FindLiveObjects: 0.012711 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.097288 ms  DeleteObjects: 1.577644 ms)
+
+UnloadTime: 0.343200 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 0.841377 ms (FindLiveObjects: 0.081644 ms CreateObjectMapping: 0.025911 ms MarkObjects: 0.181866 ms  DeleteObjects: 0.006355 ms)
+
+UnloadTime: 2.121778 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 290 unused Assets to reduce memory usage. Loaded Objects now: 124.
+Total: 2.706489 ms (FindLiveObjects: 0.012222 ms CreateObjectMapping: 0.018577 ms MarkObjects: 0.098266 ms  DeleteObjects: 2.049422 ms)
+

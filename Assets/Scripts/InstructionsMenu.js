@@ -19,7 +19,7 @@ function InstructionsMenu() {
 	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	GUI.Label(Rect(55, 110, 150, 75), "How", largeMenu);
+	GUI.Label(Rect(55, 110, 150, 75), "What", largeMenu);
 	GUI.Label(Rect(55, 200, Screen.width-155, 40), "We are Anonymous. We are Legion. We do not forgive. We do not forget. Expect us.", smallMenu);
 	GUI.Label(Rect(55, 240, Screen.width-155, 40), "We are Legion. We do not forgive. We do not forget. Expect us.", smallMenu);
 	GUI.Label(Rect(55, 280, Screen.width-155, 40), "We do not forgive. We do not forget. Expect us.", smallMenu);
