@@ -27,10 +27,13 @@ function Update () {
 
 function changeAudio () {
 	audio.Stop();
-	if(currentScene == "MainScene" || currentScene == "SecretScene") {
+	if(currentScene == "SecretScene"){
+	} else if(currentScene == "MainScene") {
 		audio.clip = mainAudio;
+		audio.Play();
 	} else {
+		audio.Play();
 		audio.clip = menuAudio;
 	}
-	audio.Play();
+	
 }

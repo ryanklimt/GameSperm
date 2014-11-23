@@ -16,12 +16,12 @@ function MainMenu() {
 	GUI.backgroundColor = Color.clear;
 	
 	//title
-	GUI.Label(Rect(55, 55, 150, 40), "GameSperm", normalMenu);
+	GUI.Label(Rect(55, 55, 150, 40), "V for Annonymous", normalMenu);
 	
 	//main menu buttons
 	if(GUI.Button(Rect(55, 110, 150, 75), "Play", largeMenu)) FadeOut("MainScene");
-	if(GUI.Button(Rect(55, 200, 150, 40), "How", normalMenu)) FadeOut("InstructionsScene");
-	if(GUI.Button(Rect(55, 245, 150, 40), "Scores", normalMenu)) FadeOut("ScoreScene");
+	if(GUI.Button(Rect(55, 200, 150, 40), "What", normalMenu)) FadeOut("InstructionsScene");
+	if(GUI.Button(Rect(55, 245, 150, 40), "High", normalMenu)) FadeOut("ScoreScene");
 	if(GUI.Button(Rect(55, 290, 150, 40), "Exit", normalMenu)) FadeOut("SecretScene");
 	
 	//layout end

@@ -21,8 +21,8 @@ function ScoreMenu() {
 	if(GUI.Button(Rect(55, 55, 150, 40), "Back", normalMenu)) FadeOut("MenuScene");
 	
 	//main menu buttons
-	GUI.Label(Rect(55, 110, 150, 75), "Best Time:", largeMenu);
-	GUI.Label(Rect(55, 200, 150, 40), highScore + " seconds", normalMenu);
+	GUI.Label(Rect(55, 110, 150, 75), "Most Found:", largeMenu);
+	GUI.Label(Rect(55, 200, 150, 40), highScore + " items!", normalMenu);
 	
 	//layout end
 	GUI.EndGroup();

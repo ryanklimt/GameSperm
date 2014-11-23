@@ -21,6 +21,10 @@ function Update () {
 	if (Input.GetKey(KeyCode.Escape)) {
 		FadeOut("MenuScene");
 	}
+	var fpc : GameObject = GameObject.Find("First Person Controller");
+	if(fpc.GameObject != null && fpc.GetComponent(PlayerScript).hasWon) {
+		FadeOut("MenuScene");
+	}
 }
 
 function OnGUI () {
